@@ -1,7 +1,7 @@
 
 # Project birdnest
 
-App that shows information about the pilots that have violated 100m no drone zone (NDZ) area around specific elusive bird nest in the last 10 minute
+App that shows information about the pilots that have violated 100m no drone zone (NDZ) area around specific elusive bird nest in the last 10 minutes
 
 https://nestprotector-test.fly.dev/
 
